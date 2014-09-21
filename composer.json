@@ -1,5 +1,24 @@
 {
     "name": "hendrismit/bootstrap-lightbox",
+    "description": "A lightbox gallery plugin for Bootstrap 3 based on the modal plugin",
+    "keywords": [
+        "lightbox",
+        "gallery",
+        "bootstrap",
+        "jquery",
+        "modal"
+    ],
+    "homepage": "https://github.com/ashleydw/lightbox",
+    "authors": [
+        {
+            "name": "ashleydw",
+            "email": "hello@ashleyd.ws"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ashleydw/lightbox/issues"
+    },
+    "license": "GNU GENERAL PUBLIC LICENSE",
     "type": "component",
     "require": {
         "robloach/component-installer": "*"
